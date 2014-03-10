@@ -13,9 +13,14 @@ Navigation
 ----------
 
 In Sublime text 3 as in Sublime text 2 moving around is done using the arrow keys. 
-Use them to go to end of this line.
-The beggining of this one.
-And on this final line here ->X somewhere in the middle of the line. 
+GO TO:
+
+```
+X<- The beggining of this line.
+The end of this line ->X
+And on this final line here ->X somewhere in the middle.
+```
+
 Yes it as easy as that.
 
 Advanced Navigation
