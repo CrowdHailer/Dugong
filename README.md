@@ -48,11 +48,26 @@ ThisOOO text OOOhas alot OOOOOO of OOOOunecessary noise00000
  - Ctrl + (k -> k) = Delete from cursor position untill the end of the line
  - Ctrl + (k -> backspace) = Delete from cursor position untill beginning of the line
 
+Comments
+--------
 
-Move to points
--------------
-there needs to (be a long selection of brackets)
-Ctrl + m move to end the beginning of brackets
+Comments can be toggled on individual lines with cursor(s) in the line to be selected.
+Comments can also be applied to multiple lines 
+
+ - Ctrl + '/' to comment uncomment
+
+ <!-- blah -->
+
+<!--  blah
+ <!-- blah -->
+ blah
+ <!-- blah --> -->
+
+
+Brackets
+--------
+
+
 
 Selection
 ---------
@@ -62,6 +77,10 @@ Ctrl + A select all in file
 
 ctrl+shift+up move line up
 
+Move to points
+-------------
+there needs to (be a long selection of brackets)
+Ctrl + m move to end the beginning of brackets
 Wrapping quotes and brackets
 
 Further selection
