@@ -25,10 +25,17 @@ Yes it as easy as that.
 
 Advanced Navigation
 -------------------
+There are several advanced navigation options.
 
-moving by word Ctrl + arrow
-home and end for beggining end of line
-Ctrl + home/end beggining or end of file
+ - Ctrl + LEFT move left to next word beginning
+ - Ctrl + RIGHT move right to next word ending
+
+ - Home = move to beginning of the line
+ - End = move to the end of the line
+
+ - Ctrl + Home = move to beginning of the document
+ - Ctrl + End = move to the end of the document
+
 
 Simple delete
 -------------
