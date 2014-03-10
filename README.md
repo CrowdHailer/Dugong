@@ -67,7 +67,11 @@ Comments can also be applied to multiple lines
 Brackets
 --------
 
+This is along line of code perhaps (or perhaps a comment ( or maybe it is indeed code)a)
+Ctrl+Shift + m expand to brackets
 
+Ctrl + m move to end the beginning of brackets
+Wrapping quotes and brackets
 
 Selection
 ---------
@@ -77,16 +81,10 @@ Ctrl + A select all in file
 
 ctrl+shift+up move line up
 
-Move to points
--------------
-there needs to (be a long selection of brackets)
-Ctrl + m move to end the beginning of brackets
-Wrapping quotes and brackets
 
 Further selection
 -----------------
 
-Ctrl+Shift + m expand to brackets
 Ctrl + Shift + j expand to indent
 
 multiple versions of above expand the selection by same rules
