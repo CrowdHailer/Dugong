@@ -40,9 +40,14 @@ There are several advanced navigation options.
 Simple delete
 -------------
 
-Ctrl backspace delete word
-Ctrl k k delete till end of line
-Ctrl (k -> backspace) delete to beginning of line 
+ - Ctrl + Backspace = delete left till word beginning
+ - Ctrl + Delete = detele right till the end of the word
+
+ThisOOO text OOOhas alot OOOOOO of OOOOunecessary noise00000 
+
+ - Ctrl + (k -> k) = Delete from cursor position untill the end of the line
+ - Ctrl + (k -> backspace) = Delete from cursor position untill beginning of the line
+
 
 Move to points
 -------------
