@@ -47,6 +47,7 @@ ThisOOO text OOOhas alot OOOOOO of OOOOunecessary noise00000
 
  - Ctrl + (k -> k) = Delete from cursor position untill the end of the line
  - Ctrl + (k -> backspace) = Delete from cursor position untill beginning of the line
+ - Ctrl + Shift + k = Delete whole line
 
 Comments
 --------
@@ -102,6 +103,9 @@ Line manipulation
 
 Ctrl + Shift + j join lines
 Ctrl + Shift + d duplicate lines
+
+Ctrl + Shift + Return = insert line above
+Ctrl + Return = insert line above
 
 Upcase/Downcase
 ---------------
