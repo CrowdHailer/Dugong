@@ -112,21 +112,21 @@ Ctrl + Shift + a Expand to tag
 Line manipulation
 -----------------
 
-Ctrl + Shift + Up = move line of selection up
-Ctrl + Shift + Down = move line of selection down
+**Ctrl + Shift + Up** move line of selection up  
+**Ctrl + Shift + Down** move line of selection down
 
-Ctrl + Shift + Return = insert line above
-Ctrl + Return = insert line above
+**Ctrl + Shift + Return** insert line above current  
+**Ctrl + Return** insert line below current
 
 This list of my favourite aquatic mammals requires is in disarray.
 Reorder it and complete the list your own choices.
 
-1. Dugong
-2. Bottlenosed Dolpin
-7. Blue Whale
-8. Beluga
-4. Narwhal
-5. Bowhead Whale
+> 1. Dugong
+> 2. Bottlenosed Dolpin
+> 7. Blue Whale
+> 8. Beluga
+> 4. Narwhal
+> 5. Bowhead Whale
 
 Upcase/Downcase
 ---------------
