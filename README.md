@@ -15,36 +15,32 @@ Navigation
 In Sublime text 3 as in Sublime text 2 moving around is done using the arrow keys. 
 GO TO:
 
-```
-X<- The beggining of this line.
-The end of this line ->X
-And on this final line here ->X somewhere in the middle.
-```
+> X<- The beggining of this line.
+> The end of this line ->X
+> And on this final line here ->X somewhere in the middle.
 
-Yes it as easy as that.
+*Yes it as easy as that.*
 
 Advanced Navigation
 -------------------
 There are several advanced navigation options.
 NOTE: If Num lock is on these commands will write a number and not act as described here.
 
- - **Ctrl + LEFT** move left to next word beginning
- - **Ctrl + RIGHT** move right to next word ending
+**CTRL + LEFT** move left to next word beginning  
+**CTRL + RIGHT** move right to next word ending
+
+**HOME** move to beginning of the line  
+**END** move to the end of the line
+
+**CTRL + HOME** move to beginning of the document  
+**CTRL + END** move to the end of the document
 
 
- - Home = move to beginning of the line
- - End = move to the end of the line
+Delete
+------
 
- - Ctrl + Home = move to beginning of the document
- - Ctrl + End = move to the end of the document
-
-
-Simple delete
--------------
-
- - Ctrl + Backspace = delete left till word beginning
- - Ctrl + Delete = detele right till the end of the word
-
+**CTRL + BACKSPACE** delete left till word beginning  
+**CTRL + DELETE** detele right till the end of the word
 
 > *MOODugong  
 > DugongONG  
@@ -52,9 +48,9 @@ Simple delete
 > Sea TEAsea sea!*  
 
 
- - Ctrl + (k -> k) = Delete from cursor position untill the end of the line
- - Ctrl + (k -> backspace) = Delete from cursor position untill beginning of the line
- - Ctrl + Shift + k = Delete whole line
+**CTRL + (K -> K)** Delete from cursor position untill the end of the line  
+**CTRL + (K -> BACKSPACE)** Delete from cursor position untill beginning of the line  
+**CTRL + SHIFT + K** Delete whole line
 
 
 > Dugong this is unecessary  
@@ -63,6 +59,24 @@ Simple delete
 > Also known as the  
 > All of these words aren't needed Manatee!  
 
+Line manipulation
+-----------------
+
+**CTRL + SHIFT + Up** move line of selection up  
+**CTRL + SHIFT + Down** move line of selection down
+
+**CTRL + SHIFT + Return** insert line above current  
+**CTRL + Return** insert line below current
+
+This list of my favourite aquatic mammals requires is in disarray.
+Reorder it and complete the list your own choices.
+
+> 1. Dugong
+> 2. Bottlenosed Dolpin
+> 7. Blue Whale
+> 8. Beluga
+> 4. Narwhal
+> 5. Bowhead Whale
 
 Comments
 --------
@@ -70,7 +84,7 @@ Comments
 Comments can be toggled on individual lines with cursor(s) in the line to be selected.
 Comments can also be applied to multiple lines 
 
- - Ctrl + '/' to comment uncomment
+ - CTRL + '/' to comment uncomment
 
  <!-- blah -->
 
@@ -84,59 +98,42 @@ Brackets
 --------
 
 This is along line of code perhaps (or perhaps a comment ( or maybe it is indeed code)a)
-Ctrl+Shift + m expand to brackets
+CTRL+SHIFT + m expand to brackets
 
-Ctrl + m move to end the beginning of brackets
+CTRL + m move to end the beginning of brackets
 Wrapping quotes and brackets
 
 Selection
 ---------
 
-Ctrl + l select line including end of line charachter
-Ctrl + A select all in file
+CTRL + l select line including end of line charachter
+CTRL + A select all in file
 
 
-Ctrl + Shift + j join lines
-Ctrl + Shift + d duplicate lines
+CTRL + SHIFT + j join lines
+CTRL + SHIFT + d duplicate lines
 
 Further selection
 -----------------
 
-Ctrl + Shift + j expand to indent
+CTRL + SHIFT + j expand to indent
 
 multiple versions of above expand the selection by same rules
 
-Ctrl + Shift + Space expand to scope - Ctrl + Shift + Alt + p show scope name
-Ctrl + Shift + a Expand to tag
+CTRL + SHIFT + Space expand to scope
+CTRL + SHIFT + Alt + p show scope name
+CTRL + SHIFT + a Expand to tag
 
-Line manipulation
------------------
-
-**Ctrl + Shift + Up** move line of selection up  
-**Ctrl + Shift + Down** move line of selection down
-
-**Ctrl + Shift + Return** insert line above current  
-**Ctrl + Return** insert line below current
-
-This list of my favourite aquatic mammals requires is in disarray.
-Reorder it and complete the list your own choices.
-
-> 1. Dugong
-> 2. Bottlenosed Dolpin
-> 7. Blue Whale
-> 8. Beluga
-> 4. Narwhal
-> 5. Bowhead Whale
 
 Upcase/Downcase
 ---------------
 
-Ctrl (k U)
-Ctrl (k U)
+CTRL (k U)
+CTRL (k l)
 
 Fold
 ----
-ctrl+shift+[ fold
+CTRL+SHIFT+[ fold
 
 Marks
 -----
@@ -145,4 +142,4 @@ Tag Stuff
 ---------
 Alt + . close tag
 
-Ctrl + q == Exit
+CTRL + q == Exit
