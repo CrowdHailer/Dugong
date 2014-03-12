@@ -93,11 +93,6 @@ multiple versions of above expand the selection by same rules
 Ctrl + Shift + Space expand to scope - Ctrl + Shift + Alt + p show scope name
 Ctrl + Shift + a Expand to tag
 
-Comment
--------
-
-Ctrl + / comment lines
-
 Line manipulation
 -----------------
 
