@@ -102,6 +102,13 @@ Ctrl + Shift + d duplicate lines
 Ctrl + Shift + Return = insert line above
 Ctrl + Return = insert line above
 
+### Favourite Aquatic Mammal
+1. Dugong
+2. Bottlenosed Dolpin
+4. Narwhal
+5. Bowhead Whale
+7. Blue Whale
+
 Upcase/Downcase
 ---------------
 Ctrl (k U)
