@@ -15,9 +15,9 @@ Navigation
 In Sublime text 3 as in Sublime text 2 moving around is done using the arrow keys. 
 GO TO:
 
-> X<- The beggining of this line.
-> The end of this line ->X
-> And on this final line here ->X somewhere in the middle.
+> X<- The beggining of this line.  
+> The end of this line ->X  
+> And on this final line here ->X somewhere in the middle.  
 
 *Yes it as easy as that.*
 
@@ -53,11 +53,11 @@ Delete
 **CTRL + SHIFT + K** Delete whole line
 
 
-> Dugong this is unecessary  
+> Dugong THIS IS UNECESSARY  
 > Dugong  
-> BEWARE the chocolate teapot  
+> BEWARE THE CHOCOLATE TEAPOT  
 > Also known as the  
-> All of these words aren't needed Manatee!  
+> ALL OF THESE WORDS AREN'T NEEDED Manatee!  
 
 Line manipulation
 -----------------
@@ -84,43 +84,36 @@ Comments
 Comments can be toggled on individual lines with cursor(s) in the line to be selected.
 Comments can also be applied to multiple lines 
 
- - CTRL + '/' to comment uncomment
-
- <!-- blah -->
-
-<!--  blah
- <!-- blah -->
- blah
- <!-- blah --> -->
-
+**CTRL + '/'** to comment uncomment
 
 Brackets
 --------
 
 This is along line of code perhaps (or perhaps a comment ( or maybe it is indeed code)a)
-CTRL+SHIFT + m expand to brackets
+**CTRL + SHIFT + M** expand to brackets
 
-CTRL + m move to end the beginning of brackets
+**CTRL + M** move to end the beginning of brackets
+
 Wrapping quotes and brackets
 
 Selection
 ---------
 
-CTRL + l select line including end of line charachter
-CTRL + A select all in file
+**CTRL + L** select line including end of line charachter  
+**CTRL + A** select all in file
 
 
-CTRL + SHIFT + j join lines
-CTRL + SHIFT + d duplicate lines
+**CTRL + SHIFT + J** join lines  
+**CTRL + SHIFT + D** duplicate lines
 
 Further selection
 -----------------
 
-CTRL + SHIFT + j expand to indent
+**CTRL + SHIFT + J** expand to indent
 
 multiple versions of above expand the selection by same rules
 
-CTRL + SHIFT + Space expand to scope
+CTRL + SHIFT + SPACE expand to scope
 CTRL + SHIFT + Alt + p show scope name
 CTRL + SHIFT + a Expand to tag
 
