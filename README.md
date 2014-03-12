@@ -80,8 +80,9 @@ Selection
 Ctrl + l select line including end of line charachter
 Ctrl + A select all in file
 
-ctrl+shift+up move line up
 
+Ctrl + Shift + j join lines
+Ctrl + Shift + d duplicate lines
 
 Further selection
 -----------------
@@ -96,21 +97,25 @@ Ctrl + Shift + a Expand to tag
 Line manipulation
 -----------------
 
-Ctrl + Shift + j join lines
-Ctrl + Shift + d duplicate lines
+Ctrl + Shift + Up = move line of selection up
+Ctrl + Shift + Down = move line of selection down
 
 Ctrl + Shift + Return = insert line above
 Ctrl + Return = insert line above
 
-### Favourite Aquatic Mammal
+This list of my favourite aquatic mammals requires is in disarray.
+Reorder it and complete the list your own choices.
+
 1. Dugong
 2. Bottlenosed Dolpin
+7. Blue Whale
+8. Beluga
 4. Narwhal
 5. Bowhead Whale
-7. Blue Whale
 
 Upcase/Downcase
 ---------------
+
 Ctrl (k U)
 
 Fold
