@@ -43,20 +43,24 @@ Simple delete
  - Ctrl + Backspace = delete left till word beginning
  - Ctrl + Delete = detele right till the end of the word
 
- MOODugong  
- DugongONG  
- It's theEPEP cowPAT of the  
- Sea TEAsea sea!  
+
+> *MOODugong  
+> DugongONG  
+> It's theEPEP cowPAT of the  
+> Sea TEAsea sea!*  
+
 
  - Ctrl + (k -> k) = Delete from cursor position untill the end of the line
  - Ctrl + (k -> backspace) = Delete from cursor position untill beginning of the line
  - Ctrl + Shift + k = Delete whole line
 
- Dugong this is unecessary  
- Dugong  
- BEWARE the chocolate teapot  
- Also known as the  
- All of these words aren't needed Manatee!  
+
+> Dugong this is unecessary  
+> Dugong  
+> BEWARE the chocolate teapot  
+> Also known as the  
+> All of these words aren't needed Manatee!  
+
 
 Comments
 --------
