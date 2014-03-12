@@ -26,9 +26,11 @@ Yes it as easy as that.
 Advanced Navigation
 -------------------
 There are several advanced navigation options.
+NOTE: If Num lock is on these commands will write a number and not act as described here.
 
- - Ctrl + LEFT move left to next word beginning
- - Ctrl + RIGHT move right to next word ending
+ - **Ctrl + LEFT** move left to next word beginning
+ - **Ctrl + RIGHT** move right to next word ending
+
 
  - Home = move to beginning of the line
  - End = move to the end of the line
@@ -129,6 +131,7 @@ Reorder it and complete the list your own choices.
 Upcase/Downcase
 ---------------
 
+Ctrl (k U)
 Ctrl (k U)
 
 Fold
