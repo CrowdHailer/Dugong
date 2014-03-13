@@ -93,11 +93,19 @@ Brackets
 --------
 
 This is along line of code perhaps (or perhaps a comment ( or maybe it is indeed code)a)
+
+**CTRL + M** move to end the beginning of brackets  
 **CTRL + SHIFT + M** expand to brackets
 
-**CTRL + M** move to end the beginning of brackets
+Text selections can be wrapped in *"quotes"* or *(brackets)*
+First select the text to be wrapped
+Second simply type one of **([{'"**
 
-Wrapping quotes and brackets
+> add round brackets
+> add square brackets
+> add curly brackets
+> add quotes
+> add double quotes
 
 Selection
 ---------
