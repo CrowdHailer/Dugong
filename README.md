@@ -1,14 +1,14 @@
 Dugong
 ======
 
-This file is a Practise file for sublime text 3. It is inspried by vimtutor available on some machine.
+This file is a Practise file for sublime text 3. It is inspired by vimtutor available on some machine.
 It is designed to be done multiple times so that you learn by doing rather than active memorization exercises.
 
 This tutorial is written to work with no additional packages and vintage mode switched off.
 
 
 ATTENTION
-This tutorial was written on a linux machines and some commands will be different on OSX.
+This tutorial was written on a Linux machines and some commands will be different on OSX.
 
 This tutorial will modify the text so save a copy. (Or use the fetch package to grab the repo version)
 
@@ -18,7 +18,7 @@ Navigation
 In Sublime text 3 as in Sublime text 2 moving around is done using the arrow keys. 
 GO TO:
 
-> X<- The beggining of this line.  
+> X<- The beginning of this line.  
 > The end of this line ->X  
 > And on this final line here ->X somewhere in the middle.  
 
@@ -43,7 +43,7 @@ Delete
 ------
 
 **CTRL + BACKSPACE** delete left till word beginning  
-**CTRL + DELETE** detele right till the end of the word
+**CTRL + DELETE** delete right till the end of the word
 
 > *MOODugong  
 > DugongONG  
@@ -51,8 +51,8 @@ Delete
 > Sea TEAsea sea!*  
 
 
-**CTRL + (K -> K)** Delete from cursor position untill the end of the line  
-**CTRL + (K -> BACKSPACE)** Delete from cursor position untill beginning of the line  
+**CTRL + (K -> K)** Delete from cursor position until the end of the line  
+**CTRL + (K -> BACKSPACE)** Delete from cursor position until beginning of the line  
 **CTRL + SHIFT + K** Delete whole line
 
 
@@ -75,7 +75,7 @@ This list of my favourite aquatic mammals requires is in disarray.
 Reorder it and complete the list your own choices.
 
 > 1. Dugong
-> 2. Bottlenosed Dolpin
+> 2. Bottlenosed Dolphin
 > 7. Blue Whale
 > 8. Beluga
 > 4. Narwhal
@@ -101,16 +101,16 @@ Text selections can be wrapped in *"quotes"* or *(brackets)*
 First select the text to be wrapped
 Second simply type one of **([{'"**
 
-> add round brackets
-> add square brackets
-> add curly brackets
-> add quotes
+> add round brackets  
+> add square brackets  
+> add curly brackets  
+> add quotes  
 > add double quotes
 
 Selection
 ---------
 
-**CTRL + L** select line including end of line charachter  
+**CTRL + L** select line including end of line character  
 **CTRL + A** select all in file
 
 
@@ -125,15 +125,17 @@ Further selection
 multiple versions of above expand the selection by same rules
 
 CTRL + SHIFT + SPACE expand to scope
-CTRL + SHIFT + Alt + p show scope name
+CTRL + SHIFT + ALT + p show scope name
 CTRL + SHIFT + a Expand to tag
 
 
 Upcase/Downcase
 ---------------
 
-CTRL (k U)
-CTRL (k l)
+Selections of text can be made all upper-case or all lower-case using the following commands
+
+**CTRL + (K -> U)** upcase selection  
+**CTRL + (K -> L)** downcase selection
 
 Fold
 ----
@@ -144,6 +146,6 @@ Marks
 
 Tag Stuff
 ---------
-Alt + . close tag
+ALT + . close tag
 
 CTRL + q == Exit
